@@ -1,0 +1,2 @@
+date_time,total_frames,hand_detected_frames,hand_detection_rate_percent,average_fps_recent_window,average_processing_time_ms_recent_window,session_duration_seconds,open_palm_count,fist_count,index_only_count,two_fingers_count,pinch_count,unknown_count
+2026-11-06T19:01:34,1545,1518,98.25,29.99,18.69,51.65,0,331,0,0,403,36

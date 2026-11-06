@@ -1,0 +1,4 @@
+Test_ID,Lighting,Camera_Distance,Hand_Position,Gesture,Expected_Result,Actual_Result,Pass_Fail
+1,Normal,Medium,Center,OPEN_PALM,Recognize Open Palm,Recognized Open Palm,PASS
+2,Low,Medium,Center,FIST,Recognize Fist,,
+3,Bright,Far,Center,PINCH,Recognize Pinch,,
